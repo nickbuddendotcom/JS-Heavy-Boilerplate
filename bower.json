@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "homepage": "https://github.com//",
+  "authors": [
+    "nickbuddendotcom <hello@nickbudden.com>"
+  ],
+  "description": "",
+  "main": "public/app.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "jquery-ui": "~1.10.4",
+    "jquery": "~2.1.0"
+  }
+}
